@@ -5,7 +5,7 @@ author        = "James Orson"
 description   = "Test frontend for Nazor"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["app"]
+bin           = @["client"]
 binDir        = "bin"
 backend       = "js"
 
